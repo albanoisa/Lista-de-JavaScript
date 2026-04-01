@@ -14,3 +14,7 @@ function operacao(){
     alert("O dobro da primeira variável somado ao triplo da segunda: "+ dobro);
     alert("A multiplicação das duas variáveis: "+ multi);
 }
+
+hjshdu
+posipdoapaispjkasoçk
+oasjpao
