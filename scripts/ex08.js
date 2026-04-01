@@ -15,6 +15,3 @@ function operacao(){
     alert("A multiplicação das duas variáveis: "+ multi);
 }
 
-hjshdu
-posipdoapaispjkasoçk
-oasjpao
